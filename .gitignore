@@ -1,0 +1,6 @@
+*.pyc
+*.pyc
+accounts/__pycache__/admin.cpython-313.pyc
+*.pyc
+*.pyc
+/categories/__pycache__
